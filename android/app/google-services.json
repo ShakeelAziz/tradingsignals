@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1031703260240",
+    "firebase_url": "https://trading-signals-e5357-default-rtdb.firebaseio.com",
+    "project_id": "trading-signals-e5357",
+    "storage_bucket": "trading-signals-e5357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031703260240:android:a8f64ba09f5af4cf50f555",
+        "android_client_info": {
+          "package_name": "com.tranding_signal_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031703260240-eurq9ksdpube14gm8h8p81j6douagr2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tranding_signal_system",
+            "certificate_hash": "561e3e8a085afd763dfcdb0b4176267de6cd2896"
+          }
+        },
+        {
+          "client_id": "1031703260240-a95st1hed13jrf97gmmb010k8355bc08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8aYy3TssyfdmnSPD-hUvO_0kOkcb3-OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031703260240-a95st1hed13jrf97gmmb010k8355bc08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
